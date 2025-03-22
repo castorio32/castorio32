@@ -38,7 +38,7 @@ Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foo
 - **Indian Institute of Technology, Roorkee**
   - Executive Postgraduation Certification in Cyber Security and Ethical Hacking
 - **GITAM University**
-  -Bachelors in Technology in Computer Science Engineering.
+  - Bachelors in Technology in Computer Science Engineering.
 
 ### Certification
 
