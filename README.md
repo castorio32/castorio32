@@ -21,16 +21,16 @@ Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foo
    - Gained extensive experience working in the healthcare insurance domain, leveraging SQL-PL/SQL to extract customer's for claim processing.
 #### 2. Prodevans Technologies
 - Cloud Internship.
-  - Received comprehensive training on AWS, Python and Red Hat Linux System Administration demonstrating comprehensive knowledge and practical skills in RHCSA.
+  - Received comprehensive training on **AWS, Python and Red Hat Linux System Administration** demonstrating comprehensive knowledge and practical skills in RHCSA.
   - Proficient in performing common system administration tasks, including user and group management, file system management, and working with CLI.
-  - Proficient in creating and managing EC2 (Elastic Compute Cloud) instances, enabling scalable and flexible virtual server deployments.
-  - Played a key role in managing team interactions and facilitated productive meetings for smooth project delivery.
-  - Presented project findings w and outcomes to stakeholders, demonstrating the successful extraction.
+  - Proficient in creating and managing **EC2)) (Elastic Compute Cloud) instances, enabling scalable and flexible virtual server deployments.
+  - Played a **key role in managing team interactions** and facilitated **productive meetings for smooth project delivery**.
+  - Presented project findings and outcomes to stakeholders, demonstrating the successful extraction.
 #### 3. IIT Bombay x (Verzeo Edu)
 - Internship (Microsoft certified)
-  - Completed comprehensive training on Ethical Hacking (CEH) methodology, gaining in-depth understanding of ethical hacking principles and techniques.
+  - Completed comprehensive training on **Ethical Hacking** (CEH) methodology, gaining in-depth understanding of ethical hacking principles and techniques.
   - Prioritized vulnerability analysis tasks while balancing hands-on penetration testing projects.
-  - Prepared detailed VAPT reports as, ensuring findings were clearly documented and well presented for the clients.
+  - Documented detailed VAPT reports, ensuring findings were clearly documented and well presented for the clients.
 
 ### Project
 - Check Repository for more details
