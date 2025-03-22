@@ -33,12 +33,13 @@ Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foo
   - Prepared detailed VAPT reports as, ensuring findings were clearly documented and well presented for the clients.
 
 ### Project
+- Check Repository for more detail
 
 ### Education
 - **Indian Institute of Technology, Roorkee**
-  - Executive Postgraduation Certification in Cyber Security and Ethical Hacking
+  - **Executive Postgraduation Certification** in Cyber Security and Ethical Hacking
 - **GITAM University**
-  - Bachelors in Technology in Computer Science Engineering.
+  - **Bachelors in Technology** in Computer Science Engineering.
 
 ### Certification
 
