@@ -28,17 +28,23 @@ Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foo
   - Presented project findings w and outcomes to stakeholders, demonstrating the successful extraction.
 #### 3. IIT Bombay x (Verzeo Edu)
 - Internship (Microsoft certified)
-  - Completed comprehensive training on Certified. Ability to work independently and collaboratively in a team
-performed security scans to refine penetration testing results.
-• Prioritized vulnerability analysis tasks while balancing hands-on penetration testing projects.
-• Prepared detailed VAPT reports, ensuring findings were clearly documented for clients.
-  
+  - Completed comprehensive training on Ethical Hacking (CEH) methodology, gaining in-depth understanding of ethical hacking principles and techniques.
+  - Prioritized vulnerability analysis tasks while balancing hands-on penetration testing projects.
+  - Prepared detailed VAPT reports as, ensuring findings were clearly documented and well presented for the clients.
+
+### Project
+
+### Education
+- **Indian Institute of Technology, Roorkee**
+  - Executive Postgraduation Certification in Cyber Security and Ethical Hacking
+- **GITAM University**
+  -Bachelors in Technology in Computer Science Engineering.
 
 ### Certification
 
 <img src='https://github.com/castorio32/Castorio/blob/main/CEH_2E345519D3F7.png' height='70'>
 <img src='https://github.com/castorio32/Castorio/blob/main/az-900.png' height='70'>
 
-
+### Social Media
 [<img src='https://github.com/castorio32/Castorio/blob/main/1298743_github_git_logo_social_icon.png'>](https://github.com/castorio32)  [<img src='https://github.com/castorio32/Castorio/blob/main/3057688_in_linked_media_social_icon.png'>](https://www.linkedin.com/in/bhargav-rohit-dhawala/)  [<img src='https://github.com/castorio32/Castorio/blob/main/1298747_instagram_brand_logo_social%20media_icon.png'>](https://www.instagram.com/castorio_/) 
 
