@@ -18,7 +18,7 @@ Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foo
 -  Software Engineer
    -  Successfully completed the internship by clearing a technical assessment on technologies namely HTML, CSS, JavaScript, Bootstrap, Python, PL/SQL,.NET, Cloud, Git.
    -  Being full-time **SE**, I developed a deep understanding in health care insurance, claims processing, and HIPPA.
-   -  Gained extensive experience working in the healthcare insurance domain, leveraging SQL-PL/SQL to extract,manipulate,and report output of data.
+   - Gained extensive experience working in the healthcare insurance domain, leveraging SQL-PL/SQL to extract customer's for claim processing.
 #### 2. Prodevans Technologies
 - Cloud Internship.
   - Received comprehensive training on AWS, Python and Red Hat Linux System Administration demonstrating comprehensive knowledge and practical skills in RHCSA.
