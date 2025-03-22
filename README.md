@@ -1,6 +1,6 @@
 ![Header](https://github.com/castorio32/Castorio/blob/main/github-header-image.png)
 ### Summary:
-A software engineer with 1 year and 4 months of experience, having worked in the healthcare domain with knowledge of HIPAA regulations and proficiency in SQL from the first job. Now transitioning into the field of cybersecurity as a certified **CEH**, with a keen interest in roles such as cybersecurity analyst, SOC analyst, and penetration tester. Possesses strong soft skills, including adaptability, flexibility, teamwork, and excellent communication abilities, along with a solid foundation in software development and a drive to protect digital landscapes in this exciting new domain.
+A software engineer with 1 year and 4 months of experience, having worked in the healthcare domain with knowledge of **HIPAA** regulations and proficiency in SQL from the first job. Now transitioning into the field of cybersecurity as a certified **CEH**, with a keen **interest** in roles such as **cybersecurity analyst, SOC analyst, and penetration tester**. Possesses strong soft skills, including **adaptability, flexibility, teamwork, and excellent communication abilities**, along with a solid foundation in software development and a drive to protect digital landscapes in this exciting new domain.
 
 ### Skills: 
 Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foot Printing & Recon, Social Engineering, Azure Cloud, SQL, LINUX 
@@ -33,7 +33,7 @@ Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foo
   - Prepared detailed VAPT reports as, ensuring findings were clearly documented and well presented for the clients.
 
 ### Project
-- Check Repository for more detail
+- Check Repository for more details
 
 ### Education
 - **Indian Institute of Technology, Roorkee**
@@ -43,8 +43,16 @@ Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foo
 
 ### Certification
 
-<img src='https://github.com/castorio32/Castorio/blob/main/CEH_2E345519D3F7.png' height='70'>
-<img src='https://github.com/castorio32/Castorio/blob/main/az-900.png' height='70'>
+<img src='https://github.com/castorio32/Castorio/blob/main/CEH_2E345519D3F7.png' height='150'> March  4,2025  <img src='https://github.com/castorio32/Castorio/blob/main/microsoft-certified-azure-fundamentals%20(2).png'> June 28, 2023
+
+<img src= 'https://github.com/castorio32/Castorio/blob/main/introduction-to-cybersecurity.png'> July 13, 2021 <img src='https://github.com/castorio32/Castorio/blob/main/introduction-to-cybersecurity-tools-cyber-attacks.png'> August 07, 2021
+
+### Languages
+- English
+- Hindi
+- Telugu(MT)
+- Bengali
+- Marathi
 
 ### Social Media
 [<img src='https://github.com/castorio32/Castorio/blob/main/1298743_github_git_logo_social_icon.png'>](https://github.com/castorio32)  [<img src='https://github.com/castorio32/Castorio/blob/main/3057688_in_linked_media_social_icon.png'>](https://www.linkedin.com/in/bhargav-rohit-dhawala/)  [<img src='https://github.com/castorio32/Castorio/blob/main/1298747_instagram_brand_logo_social%20media_icon.png'>](https://www.instagram.com/castorio_/) 
