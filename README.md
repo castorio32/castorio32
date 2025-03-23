@@ -36,8 +36,8 @@ Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foo
   - Prioritized vulnerability analysis tasks while balancing hands-on penetration testing projects.
   - Documented detailed VAPT reports, ensuring findings were clearly documented and well presented for the clients.
 
-### Project
-- Check Repository for more details
+### Project 
+-  <a href='https://github.com/castorio32/Cyber-Security-Projects'> Cy-Sec Project </a>
 
 ### Education
 - **Indian Institute of Technology, Roorkee**
