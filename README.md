@@ -54,6 +54,8 @@ Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foo
 
 <img src= 'https://github.com/castorio32/Castorio/blob/main/introduction-to-cybersecurity.png'> July 13, 2021 <img src='https://github.com/castorio32/Castorio/blob/main/introduction-to-cybersecurity-tools-cyber-attacks.png'> August 07, 2021
 
+<img src="https://github.com/castorio32/Castorio/blob/main/cybersecurity-compliance-framework-system-administration.png" height=140px >August 11, 2021
+
 ### Languages
 - English
 - Hindi
