@@ -15,7 +15,7 @@ Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foo
 ### Tools: 
 <img src='https://files.svgcdn.io/simple-icons/metasploit.svg' height='40'> <img src='https://files.svgcdn.io/file-icons/nmap.svg' height='40'> <img src='https://files.svgcdn.io/simple-icons/wireshark.svg' height='40'> <img src="https://github.com/castorio32/Castorio/blob/main/logo_ha_new.svg" class="logo" alt="Logo" height='40'> <img src='https://files.svgcdn.io/simple-icons/virustotal.svg' height='40'>  <img src='https://files.svgcdn.io/simple-icons/burpsuite.svg' height='40'> <a href='https://openvas.org/index.html'> <img src='https://github.com/castorio32/Castorio/blob/main/inmenulogo.png' height='40'></a> <img src='https://files.svgcdn.io/devicon/azure.svg' height='40'> <img src='https://files.svgcdn.io/devicon/sqldeveloper.svg' height='40'> <img src = 'https://files.svgcdn.io/skill-icons/kali-dark.svg' height='40'>
 
-- 🔭 I’m currently working on Comptia Pentest+ certification and SOC(SIEM). 
+- 🔭 I’m currently working on SOC(SIEM) , PJPT(Active Directory) skills. 
 - 🌱 I’m currently learning penetration testing 
 - 📫 How to reach me: bhargav.dhawala@gmail.com 
 - ⚡ Fun fact: Learnt coding on 30th Feb 
