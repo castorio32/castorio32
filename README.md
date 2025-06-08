@@ -50,7 +50,7 @@ Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foo
 
 ### Certification
 
-<img src='https://github.com/castorio32/Castorio/blob/main/CEH_2E345519D3F7.png' height='150'> March  4,2025  <img src='https://github.com/castorio32/Castorio/blob/main/microsoft-certified-azure-fundamentals%20(2).png'> June 28, 2023
+<img src='https://github.com/castorio32/Castorio/blob/main/comptia-pentest-ce-certification.png' height='150'> May 11, 2025 <img src='https://github.com/castorio32/Castorio/blob/main/CEH_2E345519D3F7.png' height='150'> March  4,2025  <img src='https://github.com/castorio32/Castorio/blob/main/microsoft-certified-azure-fundamentals%20(2).png'> June 28, 2023
 
 <img src= 'https://github.com/castorio32/Castorio/blob/main/introduction-to-cybersecurity.png'> July 13, 2021 <img src='https://github.com/castorio32/Castorio/blob/main/introduction-to-cybersecurity-tools-cyber-attacks.png'> August 07, 2021
 
