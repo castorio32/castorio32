@@ -30,7 +30,7 @@ Cyber Security, Scanning Networks, Malware Analysis, Vulnerability Analysis, Foo
 - Cloud Internship.
   - Received comprehensive training on **AWS, Python and Red Hat Linux System Administration** demonstrating comprehensive knowledge and practical skills in RHCSA.
   - Proficient in performing common system administration tasks, including user and group management, file system management, and working with CLI.
-  - Proficient in creating and managing **EC2** (Elastic Compute Cloud) instances, enabling scalable and flexible virtual server deployments.
+  - Proficient in creating and managing **EC2** (Elastic Compute Cloud) instances, S3, enabling scalable and flexible virtual server deployments.
   - Played a **key role in managing team interactions** and facilitated **productive meetings for smooth project delivery**.
   - Presented project findings and outcomes to stakeholders, demonstrating the successful extraction.
 #### 3. IIT Bombay x (Verzeo Edu)
